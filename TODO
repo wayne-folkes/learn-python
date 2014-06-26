@@ -1,0 +1,8 @@
+6/26
+Lets start with a program that will take an agrument and print it out.
+
+So something like 
+basic_input.py wayne
+
+Should print out
+Hello wayne!
