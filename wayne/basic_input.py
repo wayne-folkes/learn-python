@@ -12,7 +12,7 @@ print 'hello you called a program called %s and you passed in %s as an argument'
 print 'hello you called a program called ' + sys.argv[0] + ' and you passed in ' + sys.argv[1] + ' as an argument'
 
 #this is annoying 
-print 'Wayne ' + simple_list['wayne'] + ' and David ' + simple_list['david'] 
+print "'Wayne " + simple_list['wayne'] + " and David " + simple_list['david'] + "'"
 
 #this is simpler
-print 'Wayne %s and David %s' % ( simple_list['wayne'], simple_list['david'])
+print "'Wayne %s and David %s'" % ( simple_list['wayne'], simple_list['david'])
