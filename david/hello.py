@@ -1,3 +1,5 @@
 #!/usr/bin/python
 
-print 'hello world!'
+import sys
+
+print sys.argv
